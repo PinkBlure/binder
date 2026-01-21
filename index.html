@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binder - Cartas Pokémon</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=UnifrakturMaguntia&family=Grenze+Gotisch:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-skull-crossbones"></i> Binder Pokémon <i class="fas fa-ghost"></i></h1>
+            <div class="stats">
+                <div class="stat-card">
+                    <h3 id="total-cards">0</h3>
+                    <p>Cartas Totales</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="japanese-cards">0</h3>
+                    <p>Cartas Japonesas</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="korean-cards">0</h3>
+                    <p>Cartas Coreanas</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="total-value">0.00</h3>
+                    <p>Valor Total (€)</p>
+                </div>
+            </div>
+        </header>
+
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">
+                <i class="fas fa-cross"></i> Todas las Cartas
+            </button>
+            <button class="filter-btn japanese" data-filter="japanese">
+                <i class="fas fa-torii-gate"></i> Japonés
+            </button>
+            <button class="filter-btn korean" data-filter="korean">
+                <i class="fas fa-yin-yang"></i> Coreano
+            </button>
+        </div>
+
+        <div class="cards-grid" id="cards-container">
+            <!-- Las cartas se insertarán aquí dinámicamente -->
+        </div>
+
+        <div class="total-value">
+            <h2><i class="fas fa-coins"></i> Valor Total de la Colección: <span id="collection-total">0.00</span> €</h2>
+            <p>Precios basados en valores del mercado oculto</p>
+        </div>
+
+        <footer>
+            <p><i class="fas fa-crow"></i>
+            <p>Las imágenes de las cartas son propiedad de The Pokémon Company</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

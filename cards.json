@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Landorus",
+        "code": "sv11B 137",
+        "language": "Korean",
+        "price": 3.00,
+        "imageCode": "sv11B_137"
+    },
+    {
+        "name": "Stunfisk",
+        "code": "sv11W 115",
+        "language": "Korean",
+        "price": 1.50,
+        "imageCode": "sv11W_115"
+    },
+    {
+        "name": "Excadrill ex",
+        "code": "sv11B 163",
+        "language": "Japanese",
+        "price": 1.00,
+        "imageCode": "sv11B_163"
+    },
+    {
+        "name": "Zebstrika",
+        "code": "sv11W 112",
+        "language": "Korean",
+        "price": 2.00,
+        "imageCode": "sv11W_112"
+    },
+    {
+        "name": "Frillish",
+        "code": "sv11W 124",
+        "language": "Korean",
+        "price": 4.00,
+        "imageCode": "sv11W_124"
+    },
+    {
+        "name": "Tympole",
+        "code": "sv11B 107",
+        "language": "Japanese",
+        "price": 2.00,
+        "imageCode": "sv11B_107"
+    },
+    {
+        "name": "Cryogonal",
+        "code": "sv11B 115",
+        "language": "Korean",
+        "price": 2.50,
+        "imageCode": "sv11B_115"
+    },
+    {
+        "name": "Elgyem",
+        "code": "sv11B 126",
+        "language": "Korean",
+        "price": 3.00,
+        "imageCode": "sv11B_126"
+    },
+    {
+        "name": "Pidove",
+        "code": "sv11B 153",
+        "language": "Japanese",
+        "price": 5.50,
+        "imageCode": "sv11B_153"
+    },
+    {
+        "name": "Oryza",
+        "code": "sv11B 166",
+        "language": "Korean",
+        "price": 1.00,
+        "imageCode": "sv11B_166"
+    },
+    {
+        "name": "Timburr",
+        "code": "sv11B 131",
+        "language": "Japanese",
+        "price": 2.50,
+        "imageCode": "sv11B_131"
+    },
+    {
+        "name": "Solosis",
+        "code": "sv11B 123",
+        "language": "Japanese",
+        "price": 13.00,
+        "imageCode": "sv11B_123"
+    },
+    {
+        "name": "Vanilluxe",
+        "code": "sv11W 110",
+        "language": "Korean",
+        "price": 3.00,
+        "imageCode": "sv11W_110"
+    },
+    {
+        "name": "Dwebble",
+        "code": "sv11B 135",
+        "language": "Korean",
+        "price": 6.50,
+        "imageCode": "sv11B_135"
+    }
+]
