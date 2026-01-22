@@ -59,7 +59,7 @@ function formatPrice(price) {
 
 // Función para generar la ruta de la imagen
 function getImagePath(imageCode) {
-    return `images/${imageCode}.jpg`;
+    return `images/${imageCode}.png`;
 }
 
 // Función para crear placeholder cuando la imagen falla

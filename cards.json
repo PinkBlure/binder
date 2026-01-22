@@ -1,100 +1,184 @@
 [
-    {
-        "name": "Landorus",
-        "code": "sv11B 137",
-        "language": "Korean",
-        "price": 3.00,
-        "imageCode": "sv11B_137"
-    },
-    {
-        "name": "Stunfisk",
-        "code": "sv11W 115",
-        "language": "Korean",
-        "price": 1.50,
-        "imageCode": "sv11W_115"
-    },
-    {
-        "name": "Excadrill ex",
-        "code": "sv11B 163",
-        "language": "Japanese",
-        "price": 1.00,
-        "imageCode": "sv11B_163"
-    },
-    {
-        "name": "Zebstrika",
-        "code": "sv11W 112",
-        "language": "Korean",
-        "price": 2.00,
-        "imageCode": "sv11W_112"
-    },
-    {
-        "name": "Frillish",
-        "code": "sv11W 124",
-        "language": "Korean",
-        "price": 4.00,
-        "imageCode": "sv11W_124"
-    },
-    {
-        "name": "Tympole",
-        "code": "sv11B 107",
-        "language": "Japanese",
-        "price": 2.00,
-        "imageCode": "sv11B_107"
-    },
-    {
-        "name": "Cryogonal",
-        "code": "sv11B 115",
-        "language": "Korean",
-        "price": 2.50,
-        "imageCode": "sv11B_115"
-    },
-    {
-        "name": "Elgyem",
-        "code": "sv11B 126",
-        "language": "Korean",
-        "price": 3.00,
-        "imageCode": "sv11B_126"
-    },
-    {
-        "name": "Pidove",
-        "code": "sv11B 153",
-        "language": "Japanese",
-        "price": 5.50,
-        "imageCode": "sv11B_153"
-    },
-    {
-        "name": "Oryza",
-        "code": "sv11B 166",
-        "language": "Korean",
-        "price": 1.00,
-        "imageCode": "sv11B_166"
-    },
-    {
-        "name": "Timburr",
-        "code": "sv11B 131",
-        "language": "Japanese",
-        "price": 2.50,
-        "imageCode": "sv11B_131"
-    },
-    {
-        "name": "Solosis",
-        "code": "sv11B 123",
-        "language": "Japanese",
-        "price": 13.00,
-        "imageCode": "sv11B_123"
-    },
-    {
-        "name": "Vanilluxe",
-        "code": "sv11W 110",
-        "language": "Korean",
-        "price": 3.00,
-        "imageCode": "sv11W_110"
-    },
-    {
-        "name": "Dwebble",
-        "code": "sv11B 135",
-        "language": "Korean",
-        "price": 6.50,
-        "imageCode": "sv11B_135"
-    }
+  {
+    "name": "Determinación de Lylia",
+    "code": "m1L 086",
+    "language": "Korean",
+    "price": 4.95,
+    "imageCode": "m1L_086"
+  },
+  {
+    "name": "Steelix",
+    "code": "m1L 073",
+    "language": "Korean",
+    "price": 1.77,
+    "imageCode": "m1L_073"
+  },
+  {
+    "name": "Mega Venusaur ex",
+    "code": "m1L 087",
+    "language": "Korean",
+    "price": 39.00,
+    "imageCode": "m1L_087"
+  },
+  {
+    "name": "Gumshoos",
+    "code": "m1L 075",
+    "language": "Korean",
+    "price": 0.35,
+    "imageCode": "m1L_075"
+  },
+  {
+    "name": "Vulpix",
+    "code": "m1L 067",
+    "language": "Korean",
+    "price": 2.99,
+    "imageCode": "m1L_067"
+  },
+  {
+    "name": "Potencia Prémium Plus",
+    "code": "m1L 081",
+    "language": "Japanese",
+    "price": 0.39,
+    "imageCode": "m1L_081"
+  },
+  {
+    "name": "Shroodle",
+    "code": "m1L 072",
+    "language": "Japanese",
+    "price": 1.07,
+    "imageCode": "m1L_072"
+  },
+  {
+    "name": "Ivysaur",
+    "code": "m1L 065",
+    "language": "Japanese",
+    "price": 4.87,
+    "imageCode": "m1L_065"
+  },
+  {
+    "name": "Mega Lucario ex",
+    "code": "m1L 092",
+    "language": "Japanese",
+    "price": 290.67,
+    "imageCode": "m1L_092"
+  },
+  {
+    "name": "Mega Camerupt ex",
+    "code": "m1L 077",
+    "language": "Japanese",
+    "price": 2.22,
+    "imageCode": "m1L_077"
+  },
+  {
+    "name": "Steelix",
+    "code": "m1L 073",
+    "language": "Japanese",
+    "price": 2.15,
+    "imageCode": "m1L_073"
+  },
+  {
+    "name": "Pikachu",
+    "code": "sv2a 173",
+    "language": "Korean",
+    "price": 8.00,
+    "imageCode": "sv2a_173"
+  },
+  {
+    "name": "Tangela",
+    "code": "sv2a 178",
+    "language": "Korean",
+    "price": 1.00,
+    "imageCode": "sv2a_178"
+  },
+  {
+    "name": "Transferencia de Bill",
+    "code": "sv2a 199",
+    "language": "Korean",
+    "price": 1.99,
+    "imageCode": "sv2a_199"
+  },
+  {
+    "name": "Snorlax",
+    "code": "sv2a 181",
+    "language": "Korean",
+    "price": 5.44,
+    "imageCode": "sv2a_181"
+  },
+  {
+    "name": "Espíritu de Lucha de Iris",
+    "code": "m2a 247",
+    "language": "Japanese",
+    "price": 20.69,
+    "imageCode": "m2a_247"
+  },
+  {
+    "name": "Medicham",
+    "code": "m2a 207",
+    "language": "Japanese",
+    "price": 1.72,
+    "imageCode": "m2a_207"
+  },
+  {
+    "name": "Mega Gardevoir ex (Tienes 2)",
+    "code": "m2a 226",
+    "language": "Japanese",
+    "price": 5.93,
+    "imageCode": "m2a_226"
+  },
+  {
+    "name": "Beautifly",
+    "code": "m2a 194",
+    "language": "Japanese",
+    "price": 1.87,
+    "imageCode": "m2a_194"
+  },
+  {
+    "name": "Trompeta de Cristal",
+    "code": "m2a 215",
+    "language": "Japanese",
+    "price": 0.22,
+    "imageCode": "m2a_215"
+  },
+  {
+    "name": "Heliolisk",
+    "code": "m2a 201",
+    "language": "Japanese",
+    "price": 1.05,
+    "imageCode": "m2a_201"
+  },
+  {
+    "name": "Walkie-talkie del Team Rocket",
+    "code": "m2a 217",
+    "language": "Japanese",
+    "price": 0.20,
+    "imageCode": "m2a_217"
+  },
+  {
+    "name": "Magcargo de Eco",
+    "code": "m2a 197",
+    "language": "Japanese",
+    "price": 2.00,
+    "imageCode": "m2a_197"
+  },
+  {
+    "name": "Amor & Paz",
+    "code": "m2a 221",
+    "language": "Japanese",
+    "price": 3.01,
+    "imageCode": "m2a_221"
+  },
+  {
+    "name": "Trevenant de Paul",
+    "code": "m2a 204",
+    "language": "Japanese",
+    "price": 1.24,
+    "imageCode": "m2a_204"
+  },
+  {
+    "name": "Rotom Ventilador",
+    "code": "m2a 213",
+    "language": "Japanese",
+    "price": 0.92,
+    "imageCode": "m2a_213"
+  }
 ]
